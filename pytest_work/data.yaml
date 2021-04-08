@@ -1,0 +1,29 @@
+add_int:
+  data:
+      - [1,1,2]
+      - [-1,-1,-2]
+  ids:
+      - add_int1
+      - add_int2
+
+add_float:
+  data:
+      - [0.1,0.1,0.2]
+      - [0.1,0.2,0.3]
+  ids:
+      - div_float1
+      - div_folat2
+
+div:
+  data:
+      - [1,1,1]
+      - [0,1,0]
+  ids:
+      - div1
+      - div2
+
+div_error:
+  data:
+      -[1,0]
+  ids:
+      - div_error

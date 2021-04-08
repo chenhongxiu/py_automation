@@ -1,0 +1,11 @@
+cat:
+  name: 肥猫
+  color: 黑白
+  age: 2岁
+  gender: 母
+
+dog:
+  name: 柴犬
+  color: 黄色
+  age: 3岁
+  gender: 母
